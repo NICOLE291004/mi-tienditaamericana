@@ -88,6 +88,12 @@ export default async function ProductoPage({ params }: Props) {
             )}
           </p>
 
+          {desc > 0 && p.precioAnteriorDe && (
+            <p className="mt-1 text-sm text-emerald-700">
+              Precio en {p.precioAnteriorDe}: {precioMx(p.precioAnterior!)} · ¡Ahorras {precioMx(p.precioAnterior! - p.precio)}!
+            </p>
+          )}
+
           <div className="mt-3 flex flex-wrap gap-2">
             <p className={`inline-block rounded-full px-3 py-1 text-sm ${colorStock[estado]}`}>{etiquetaStock[estado]}</p>
             {p.etiqueta && <p className="inline-block rounded-full bg-cacao px-3 py-1 text-sm text-crema">{p.etiqueta}</p>}

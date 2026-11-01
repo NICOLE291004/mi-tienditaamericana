@@ -76,22 +76,25 @@
       "regalo": true
     },
     {
-      "nombre": "Buffet + Copper Peptides 1%",
+      "nombre": "Multi-Peptide + Copper Peptides 1% (Buffet): Sérum de Péptidos",
       "slug": "buffet-copper-peptides",
       "marca": "The Ordinary",
       "categoria": "Rostro",
       "precio": 300,
       "tamano": "30 ml",
-      "descripcionCorta": "Sérum multi-péptidos con péptidos de cobre para una rutina antiedad.",
+      "descripcionCorta": "Sérum con cinco tecnologías de péptidos, aminoácidos y ácidos hialurónicos, más péptidos de cobre con acción antioxidante, para una rutina antiedad.",
       "beneficios": [
-        "Fórmula multi-tecnología de péptidos",
-        "Con péptidos de cobre 1%",
-        "Para una rutina antiedad"
+        "Combina 5 tecnologías de péptidos, aminoácidos y ácidos hialurónicos",
+        "Con péptidos de cobre 1%, de acción antioxidante",
+        "Pensado para una rutina antiedad",
+        "Se usa por la mañana y por la noche"
       ],
-      "modoDeUso": "Aplica unas gotas sobre el rostro limpio, antes de la crema. Haz una prueba en una zona pequeña antes de usarlo.",
+      "modoDeUso": "Aplica unas gotas sobre el rostro, por la mañana y por la noche. Evita usarlo junto con ácidos directos, retinoides y antioxidantes fuertes. Haz una prueba en una zona pequeña antes de usarlo.",
       "stock": 4,
       "fotos": [
-        "/productos/buffet-copper-peptides.jpg"
+        "/productos/buffet-copper-peptides.jpg",
+        "/productos/buffet-copper-peptides-frasco.jpg",
+        "/productos/buffet-copper-peptides-frascos.jpg"
       ],
       "tiposDePiel": [
         "grasa",
@@ -101,25 +104,31 @@
       ],
       "paraPreocupaciones": [
         "envejecimiento"
-      ]
+      ],
+      "precioAnterior": 885,
+      "precioAnteriorDe": "Amazon"
     },
     {
       "nombre": "Solución de Ácido Salicílico 2%",
       "slug": "acido-salicilico-2",
       "marca": "The Ordinary",
       "categoria": "Rostro",
-      "precio": 300,
+      "precio": 150,
       "tamano": "30 ml",
-      "descripcionCorta": "Solución con ácido salicílico para piel propensa a imperfecciones.",
+      "descripcionCorta": "Solución con ácido salicílico 2% para piel con tendencia a imperfecciones y acneica. Con isomerato de sacárido para mantener la hidratación.",
       "beneficios": [
-        "Para piel propensa a imperfecciones",
-        "Ayuda a destapar poros",
-        "Textura ligera"
+        "Ácido salicílico 2%: ayuda a remover células muertas que pueden acumularse y producir brotes",
+        "Para piel con tendencia a imperfecciones o acneica",
+        "Con isomerato de sacárido, que ayuda a mantener la hidratación",
+        "Libre de sulfatos, parabenos y ftalatos",
+        "Apto para adolescentes con piel propensa a imperfecciones"
       ],
-      "modoDeUso": "Aplica sobre el rostro limpio por la noche, solo en las zonas necesarias. Usa protector solar de día.",
+      "modoDeUso": "Aplica sobre el rostro limpio por la noche, solo en las zonas necesarias. Usa protector solar de día. Haz una prueba en una zona pequeña antes de usarlo y evita combinarlo con otros ácidos directos o retinoides.",
       "stock": 5,
       "fotos": [
         "/productos/acido-salicilico-2.jpg",
+        "/productos/acido-salicilico-2-frasco.jpg",
+        "/productos/acido-salicilico-2-frascos.jpg",
         "/productos/acido-salicilico-2-problemas.jpg"
       ],
       "tiposDePiel": [
@@ -220,16 +229,20 @@
       "categoria": "Rostro",
       "precio": 300,
       "tamano": "91 g",
-      "descripcionCorta": "Protector solar mineral con color, FPS 36 de amplio espectro y resistente al agua (40 minutos).",
+      "descripcionCorta": "Protector solar mineral ligero, con color y de amplio espectro para el rostro: hidrata y protege de los rayos UVA/UVB, con una apariencia suave y radiante.",
       "beneficios": [
-        "FPS 36 de amplio espectro",
-        "Resistente al agua por 40 minutos",
-        "Fórmula mineral con tinte"
+        "Protección de amplio espectro FPS 36 contra rayos UVA/UVB",
+        "Fórmula mineral, ligera y con color",
+        "Hidrata la piel",
+        "Apariencia suave y radiante",
+        "Resistente al agua por 40 minutos"
       ],
       "modoDeUso": "Aplica generosamente 15 minutos antes de la exposición al sol y reaplica cada 2 horas.",
       "stock": 3,
       "fotos": [
-        "/productos/alastin-hydratint.jpg"
+        "/productos/alastin-hydratint.jpg",
+        "/productos/alastin-hydratint-playa.jpg",
+        "/productos/alastin-hydratint-textura.jpg"
       ],
       "tiposDePiel": [
         "grasa",
@@ -330,96 +343,98 @@
       "unoPorKit": true
     },
     {
-      "nombre": "Daily Life Shiatsu Back & Neck Massager: Masajeador de Espalda y Cuello",
-      "slug": "masajeador-shiatsu-daily-life",
-      "marca": "Daily Life",
-      "categoria": "Bienestar",
-      "precio": 599,
-      "tamano": "1 pieza",
-      "descripcionCorta": "Masajeador estilo shiatsu que rodea el cuello y los hombros, con asa para transportarlo.",
-      "beneficios": [
-        "Masaje estilo shiatsu para cuello, hombros y espalda",
-        "Diseño que se acomoda alrededor del cuello",
-        "Controles para ajustar el masaje",
-        "Ideal para regalar o para relajarte en casa"
-      ],
-      "modoDeUso": "Colócalo sobre el cuello y los hombros, o recárgalo en la espalda, y selecciona el modo de masaje con sus botones.",
-      "stock": 2,
-      "unoPorKit": true,
-      "fotos": [
-        "/productos/masajeador-shiatsu-daily-life.jpg"
-      ],
-      "regalo": true,
-      "etiqueta": "Nuevo"
-    },
-    {
-      "nombre": "Daily Life Neck Back Massager: Masajeador Shiatsu de Cuello y Espalda con Calor",
+      "nombre": "Daily Life Masajeador Shiatsu de Cuello y Espalda con Calor",
       "slug": "masajeador-neck-back",
       "marca": "Daily Life",
       "categoria": "Bienestar",
       "precio": 599,
       "tamano": "1 pieza",
-      "descripcionCorta": "Masajeador shiatsu de cuello y espalda para relajar y aflojar la tensión muscular, con función de calor.",
+      "descripcionCorta": "Masajeador shiatsu de cuello y espalda con calor, de diseño envolvente y manos libres. Incluye adaptador de pared y de auto.",
       "beneficios": [
-        "Masaje shiatsu para cuello y espalda",
-        "Relaja y afloja la tensión muscular",
-        "Función de calor (heater)",
-        "Control de intensidad y cambio de dirección"
+        "Masaje shiatsu de amasado con nodos, para cuello, hombros, espalda, cintura y piernas",
+        "Función de calor",
+        "3 velocidades (baja, media y alta) y cambio de dirección del masaje",
+        "Apagado automático a los 15 minutos",
+        "Material de piel sintética suave con malla transpirable",
+        "Incluye adaptador de pared y adaptador para auto (funciona con cable)"
       ],
-      "modoDeUso": "Colócalo sobre el cuello y los hombros o recárgalo en la espalda. Enciéndelo y ajusta la intensidad, la dirección y el calor con sus botones.",
-      "stock": 2,
+      "modoDeUso": "Colócalo sobre el cuello y los hombros, o recárgalo en la espalda. Enciéndelo y elige velocidad, dirección y calor con sus botones. No lo uses más de 15 minutos seguidos, desconéctalo al terminar y mantenlo lejos del agua. Si estás embarazada o tienes una condición de salud, consulta primero a tu médico.",
+      "stock": 4,
       "unoPorKit": true,
       "fotos": [
-        "/productos/masajeador-neck-back-dailylife.jpg"
+        "/productos/masajeador-neck-back-dailylife.jpg",
+        "/productos/masajeador-shiatsu-daily-life.jpg",
+        "/productos/masajeador-neck-back-producto.jpg",
+        "/productos/masajeador-neck-back-botones.jpg",
+        "/productos/masajeador-neck-back-uso.jpg",
+        "/productos/masajeador-neck-back-cuerpo.jpg",
+        "/productos/masajeador-neck-back-material.jpg",
+        "/productos/masajeador-neck-back-en-la-caja.jpg",
+        "/productos/masajeador-neck-back-regalo.jpg"
       ],
       "regalo": true,
       "etiqueta": "Nuevo"
     },
     {
-      "nombre": "OWAYS Slimming Belt: Cinturón Reductor",
+      "nombre": "OWAYS Cinturón de Masaje Oscilante con Calor (Slimming Belt)",
       "slug": "cinturon-oways",
       "marca": "OWAYS",
       "categoria": "Bienestar",
       "precio": 599,
-      "tamano": "1 pieza",
-      "descripcionCorta": "Cinturón reductor con panel de control de botones, para usar en abdomen, piernas y glúteos.",
+      "tamano": "Banda de 106 cm (41.7 in)",
+      "descripcionCorta": "Cinturón de masaje oscilante con calor suave y 3 motores internos, para usar en abdomen, espalda, cadera y muslos.",
       "beneficios": [
-        "Panel de control con botones",
-        "Para abdomen, piernas y glúteos",
-        "Fácil de colocar y ajustar",
-        "Ideal para regalar"
+        "Masaje oscilante con calor suave",
+        "3 motores internos: izquierda, centro y derecha",
+        "Se puede usar en abdomen, espalda, cadera y muslos",
+        "Banda ajustable de 106 cm (41.7 in)",
+        "Control de 26 x 12 x 8 cm (10.2 x 4.7 x 3.1 in)",
+        "Entrada 100-240 V, 24 W, funciona conectado a la corriente"
       ],
-      "modoDeUso": "Colócalo sobre la zona deseada, ajusta la banda y selecciona el modo con los botones. Sigue las instrucciones del fabricante.",
+      "modoDeUso": "Colócalo sobre la zona deseada, ajusta la banda, conéctalo y elige el modo con los botones. Tiempo de uso recomendado: 30 minutos. No lo uses sobre heridas; si estás embarazada, usas marcapasos o tienes una condición de salud, consulta primero a tu médico.",
       "stock": 2,
       "unoPorKit": true,
       "fotos": [
-        "/productos/cinturon-oways.jpg"
+        "/productos/cinturon-oways.jpg",
+        "/productos/cinturon-oways-areas.jpg",
+        "/productos/cinturon-oways-diseno.jpg"
       ],
       "regalo": true,
-      "etiqueta": "Nuevo"
+      "etiqueta": "Nuevo",
+      "precioAnterior": 1871,
+      "precioAnteriorDe": "Amazon"
     },
     {
-      "nombre": "rilassa Wireless Slimming Belt: Cinturón Reductor Inalámbrico",
+      "nombre": "rilassa Cinturón de Masaje Inalámbrico con Calor y Vibración (Slimming Belt)",
       "slug": "cinturon-rilassa",
       "marca": "rilassa",
       "categoria": "Bienestar",
       "precio": 599,
-      "tamano": "1 pieza",
-      "descripcionCorta": "Cinturón reductor inalámbrico con batería, calor y vibración para usar donde quieras.",
+      "tamano": "Banda de 104 cm (41 in)",
+      "descripcionCorta": "Cinturón de masaje inalámbrico y recargable, con calor y vibración de 4 niveles, para usar donde quieras.",
       "beneficios": [
-        "Inalámbrico, con batería recargable",
-        "Función de calor",
-        "Función de vibración",
-        "Cómodo para usar en casa o donde quieras"
+        "Inalámbrico: batería recargable integrada, hasta 200 minutos de uso con carga completa",
+        "Función de calor y vibración de alta frecuencia",
+        "Motor doble con 4 niveles de intensidad, de baja a potente",
+        "Modo manual y modo automático, con un botón para iniciar",
+        "Se puede usar en abdomen, espalda, cadera y muslos",
+        "Banda de 104 cm (41 in), potencia de 18 W"
       ],
-      "modoDeUso": "Colócalo alrededor de la cintura, enciéndelo y elige el modo con los botones. Sigue las instrucciones del fabricante.",
+      "modoDeUso": "Colócalo sobre la zona deseada, ajusta la banda y enciéndelo. Elige entre modo de calentamiento, manual o automático con sus botones. Tiempo de uso: 20 minutos. Si sientes comezón por la vibración, aplícate loción corporal antes de usarlo. No lo uses sobre heridas; si estás embarazada, usas marcapasos o tienes una condición de salud, consulta primero a tu médico.",
       "stock": 2,
       "unoPorKit": true,
       "fotos": [
-        "/productos/cinturon-rilassa.jpg"
+        "/productos/cinturon-rilassa.jpg",
+        "/productos/cinturon-rilassa-bateria.jpg",
+        "/productos/cinturon-rilassa-vibracion.jpg",
+        "/productos/cinturon-rilassa-botones.jpg",
+        "/productos/cinturon-rilassa-areas.jpg",
+        "/productos/cinturon-rilassa-uso-diario.jpg"
       ],
       "regalo": true,
-      "etiqueta": "Nuevo"
+      "etiqueta": "Nuevo",
+      "precioAnterior": 2500,
+      "precioAnteriorDe": "Amazon"
     }
   ]
 }

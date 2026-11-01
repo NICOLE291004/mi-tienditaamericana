@@ -12,6 +12,8 @@ export type Producto = {
   categoria: string;
   precio: number;
   precioAnterior?: number;
+  /** Opcional: de dónde es el precio anterior, por ejemplo "Amazon". Se muestra como "Precio en Amazon". */
+  precioAnteriorDe?: string;
   tamano: string;
   descripcionCorta: string;
   beneficios: string[];
