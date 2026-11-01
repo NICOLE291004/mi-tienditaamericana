@@ -1,0 +1,35 @@
+{
+  "kits": [
+    {
+      "nombre": "Rutina anti-granitos",
+      "descripcion": "Limpia, trata, calma y protégete del sol: una rutina sencilla para piel con tendencia a granitos y comedones.",
+      "productos": [
+        "acido-salicilico-2",
+        "skin1004-tea-trica-toner",
+        "skin1004-spot-cream",
+        "cerave-am-spf30"
+      ]
+    },
+    {
+      "nombre": "Rutina luminosa antiedad",
+      "descripcion": "Vitamina C, péptidos, tónico calmante y protector solar mineral para cuidar tu piel día a día.",
+      "productos": [
+        "cerave-vitamina-c",
+        "buffet-copper-peptides",
+        "skin1004-probio-cica",
+        "alastin-hydratint"
+      ]
+    },
+    {
+      "nombre": "Kit consentida",
+      "descripcion": "Perfecto para regalar (o regalarte): fragancias, sérum corporal y un masajeador para relajarte.",
+      "regalo": true,
+      "productos": [
+        "set-love-spell",
+        "set-4-mini-mists",
+        "olly-serum-corporal",
+        "masajeador-neck-back"
+      ]
+    }
+  ]
+}

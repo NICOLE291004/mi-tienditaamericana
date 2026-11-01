@@ -1,0 +1,71 @@
+{
+  "nombre": "Mi Tiendita Americana",
+  "lema": "Belleza, bienestar y regalos traídos de USA",
+  "ciudad": "Hermosillo, Sonora",
+  "whatsapp": "52XXXXXXXXXX",
+  "sitioUrl": "https://mitienditaamericana.com",
+  "mensajesConfianza": [
+    "Productos 100% originales de USA",
+    "Entregas en Hermosillo y envíos por Uber",
+    "Atención por WhatsApp"
+  ],
+  "comoComprar": [
+    {
+      "titulo": "Escríbeme por WhatsApp",
+      "texto": "Toca “Lo quiero” en el producto que te guste y se abre el chat conmigo."
+    },
+    {
+      "titulo": "Apartamos tu producto",
+      "texto": "Confirmo que haya existencia y te lo aparto para que no se te vaya."
+    },
+    {
+      "titulo": "Acordamos entrega y pago",
+      "texto": "Elegimos juntas dónde y cuándo te lo entrego en Hermosillo, y cómo prefieres pagar."
+    }
+  ],
+  "kit": {
+    "minimoProductos": 4,
+    "descuentoPorcentaje": 10
+  },
+  "reglas": [
+    {
+      "titulo": "Te apartamos tu producto",
+      "texto": "Una vez que confirmamos que hay existencia, es tuyo mientras acordamos la entrega."
+    },
+    {
+      "titulo": "Entregas en Hermosillo",
+      "texto": "Puntos de entrega al norte y al sur de la ciudad, o envío por Uber. Lo acordamos contigo por WhatsApp."
+    },
+    {
+      "titulo": "Pago acordado contigo",
+      "texto": "Te decimos las formas de pago al confirmar tu pedido."
+    },
+    {
+      "titulo": "100% originales",
+      "texto": "Todos nuestros productos vienen directo de USA."
+    }
+  ],
+  "entregas": [
+    {
+      "zona": "Norte",
+      "lugar": "Cerca del CUM",
+      "horarios": [
+        "Lunes a viernes de 8:00 a 15:00",
+        "Miércoles y viernes de 16:00 a 18:00"
+      ]
+    },
+    {
+      "zona": "Sur",
+      "lugar": "Cerca de la colonia Nacameri",
+      "horarios": []
+    },
+    {
+      "zona": "Envío por Uber",
+      "lugar": "A domicilio en Hermosillo",
+      "horarios": [
+        "Te confirmamos los detalles por WhatsApp"
+      ]
+    }
+  ],
+  "facebookPixelId": ""
+}

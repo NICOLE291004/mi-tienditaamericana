@@ -1,0 +1,4 @@
+{
+  "_ayuda": "Agrega aquí reseñas REALES de tus clientas. Cada una: { \"nombre\": \"María\", \"texto\": \"Me llegó rápido y es original\", \"foto\": \"/resenas/captura1.jpg\" }. 'foto' es opcional (por ejemplo, la captura del chat). Si la lista está vacía, la sección no se muestra.",
+  "resenas": []
+}

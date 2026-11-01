@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+/* Paleta de la tienda. Cambia aquí y se actualiza todo el sitio. */
+:root {
+  --crema: #fbf6f3; /* fondo */
+  --nude: #f1e4dc; /* superficies suaves */
+  --rosa: #d99a9c; /* rosa palo: acento */
+  --rosa-hondo: #b87377;
+  --cacao: #3d2e2e; /* texto */
+  --muted: #7d6b69;
+  --linea: #ead9d0;
+  --wa: #1fa855;
+}
+
+@theme inline {
+  --color-crema: var(--crema);
+  --color-nude: var(--nude);
+  --color-rosa: var(--rosa);
+  --color-rosa-hondo: var(--rosa-hondo);
+  --color-cacao: var(--cacao);
+  --color-muted: var(--muted);
+  --color-linea: var(--linea);
+  --color-wa: var(--wa);
+  --font-display: var(--font-cormorant), Georgia, serif;
+  --font-sans: var(--font-jost), system-ui, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+body { background: var(--crema); color: var(--cacao); font-family: var(--font-sans); -webkit-tap-highlight-color: transparent; }
+.font-display { font-family: var(--font-display); }
+.sin-barra { scrollbar-width: none; }
+.sin-barra::-webkit-scrollbar { display: none; }

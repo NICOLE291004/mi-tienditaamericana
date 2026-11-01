@@ -1,0 +1,425 @@
+{
+  "categorias": [
+    "Rostro",
+    "Cuerpo",
+    "Bienestar",
+    "Otros"
+  ],
+  "productos": [
+    {
+      "nombre": "Set Love Spell Victoria's Secret Mist Loción y Body 75ml",
+      "slug": "set-love-spell",
+      "marca": "Victoria's Secret",
+      "categoria": "Cuerpo",
+      "precio": 349,
+      "tamano": "2 piezas de 75 ml",
+      "descripcionCorta": "Set de regalo con mini fragance mist y loción perfumada en aroma Love Spell.",
+      "beneficios": [
+        "Mist y loción a juego",
+        "Tamaño ideal para regalo o viaje",
+        "Aroma dulce y floral"
+      ],
+      "modoDeUso": "Aplica la loción sobre la piel limpia y seca, y termina con unos rocíos del mist.",
+      "stock": 4,
+      "fotos": [
+        "/productos/set-love-spell-2.jpg",
+        "/productos/set-love-spell-3.jpg"
+      ],
+      "unoPorKit": true,
+      "regalo": true
+    },
+    {
+      "nombre": "Set De Regalo Victoria's Secret 4 Body Mist Mini 75 Ml",
+      "slug": "set-4-mini-mists",
+      "marca": "Victoria's Secret",
+      "categoria": "Cuerpo",
+      "precio": 699,
+      "tamano": "4 piezas de 75 ml",
+      "descripcionCorta": "Cuatro fragance mists: Love Spell, Velvet Petals, Pure Seduction y Bare Vanilla.",
+      "beneficios": [
+        "4 aromas para combinar",
+        "Tamaño de viaje",
+        "Ideal para regalar"
+      ],
+      "modoDeUso": "Rocía a unos 15 cm de distancia sobre el cuerpo después de la ducha.",
+      "stock": 3,
+      "fotos": [
+        "/productos/set-4-mini-mists-2.jpg",
+        "/productos/set-4-mini-mists-caja.jpg",
+        "/productos/set-4-mini-mists-frascos.jpg",
+        "/productos/set-4-mini-mists-spray.jpg"
+      ],
+      "unoPorKit": true,
+      "regalo": true
+    },
+    {
+      "nombre": "Dealworthy Item Locator: Localizador de Objetos (4 piezas)",
+      "slug": "localizador-dealworthy",
+      "marca": "Dealworthy",
+      "categoria": "Otros",
+      "precio": 299,
+      "tamano": "4 piezas",
+      "descripcionCorta": "Localizador Bluetooth para encontrar llaves, mochilas o carteras. Funciona con la red Buscar (Find My) de Apple.",
+      "beneficios": [
+        "Compatible con dispositivos Apple iOS mediante la red Buscar (Find My)",
+        "Emite un sonido para encontrar tus cosas cercanas",
+        "Ve su ubicación o recibe avisos si dejas algo atrás",
+        "Alcance inalámbrico de hasta 150 pies (aprox. 45 metros)",
+        "Batería CR2032 reemplazable que dura entre 6 meses y 1 año",
+        "Paquete de 4 piezas en 4 colores, con llavero"
+      ],
+      "modoDeUso": "Vincúlalo desde la app Buscar de tu iPhone y colócalo en tus llaves, mochila o cartera. Mantén la batería fuera del alcance de los niños.",
+      "stock": 5,
+      "fotos": [
+        "/productos/localizadores-dealworthy-2.jpg"
+      ],
+      "regalo": true
+    },
+    {
+      "nombre": "Buffet + Copper Peptides 1%",
+      "slug": "buffet-copper-peptides",
+      "marca": "The Ordinary",
+      "categoria": "Rostro",
+      "precio": 300,
+      "tamano": "30 ml",
+      "descripcionCorta": "Sérum multi-péptidos con péptidos de cobre para una rutina antiedad.",
+      "beneficios": [
+        "Fórmula multi-tecnología de péptidos",
+        "Con péptidos de cobre 1%",
+        "Para una rutina antiedad"
+      ],
+      "modoDeUso": "Aplica unas gotas sobre el rostro limpio, antes de la crema. Haz una prueba en una zona pequeña antes de usarlo.",
+      "stock": 4,
+      "fotos": [
+        "/productos/buffet-copper-peptides.jpg"
+      ],
+      "tiposDePiel": [
+        "grasa",
+        "mixta",
+        "seca",
+        "normal"
+      ],
+      "paraPreocupaciones": [
+        "envejecimiento"
+      ]
+    },
+    {
+      "nombre": "Solución de Ácido Salicílico 2%",
+      "slug": "acido-salicilico-2",
+      "marca": "The Ordinary",
+      "categoria": "Rostro",
+      "precio": 300,
+      "tamano": "30 ml",
+      "descripcionCorta": "Solución con ácido salicílico para piel propensa a imperfecciones.",
+      "beneficios": [
+        "Para piel propensa a imperfecciones",
+        "Ayuda a destapar poros",
+        "Textura ligera"
+      ],
+      "modoDeUso": "Aplica sobre el rostro limpio por la noche, solo en las zonas necesarias. Usa protector solar de día.",
+      "stock": 5,
+      "fotos": [
+        "/productos/acido-salicilico-2.jpg",
+        "/productos/acido-salicilico-2-problemas.jpg"
+      ],
+      "tiposDePiel": [
+        "grasa",
+        "mixta",
+        "seca",
+        "normal"
+      ],
+      "paraPreocupaciones": [
+        "comedones",
+        "granitos"
+      ],
+      "principalPara": [
+        "comedones"
+      ]
+    },
+    {
+      "nombre": "OLLY Renovación Sérum Corporal con Vitaminas",
+      "slug": "olly-serum-corporal",
+      "marca": "OLLY",
+      "categoria": "Cuerpo",
+      "precio": 150,
+      "tamano": "88 ml",
+      "descripcionCorta": "Sérum corporal con retinol, botánicos y vitamina D, aroma relajante de jazmín y bergamota.",
+      "beneficios": [
+        "Con retinol, botánicos y vitamina D",
+        "Aroma relajante a jazmín y bergamota",
+        "Ideal para la rutina de noche"
+      ],
+      "modoDeUso": "Aplica por la noche sobre la piel limpia y seca, y masajea hasta absorber.",
+      "stock": 4,
+      "fotos": [
+        "/productos/olly-renew-body-serum.jpg"
+      ],
+      "regalo": true
+    },
+    {
+      "nombre": "Sérum Vitamina C Skin Renewing 10%",
+      "slug": "cerave-vitamina-c",
+      "marca": "CeraVe",
+      "categoria": "Rostro",
+      "precio": 200,
+      "tamano": "30 ml",
+      "descripcionCorta": "Sérum con 10% de vitamina C pura, ceramidas, ácido hialurónico y vitamina B5.",
+      "beneficios": [
+        "Ilumina y unifica el tono",
+        "Aporta antioxidantes",
+        "Ayuda a restaurar la barrera de la piel"
+      ],
+      "modoDeUso": "Aplica por la mañana sobre el rostro limpio, antes de la crema y del protector solar.",
+      "stock": 5,
+      "fotos": [
+        "/productos/cerave-vitamina-c.jpg"
+      ],
+      "tiposDePiel": [
+        "grasa",
+        "mixta",
+        "seca",
+        "normal"
+      ],
+      "paraPreocupaciones": [
+        "manchas",
+        "envejecimiento"
+      ]
+    },
+    {
+      "nombre": "Loción Facial Hidratante AM con FPS 30",
+      "slug": "cerave-am-spf30",
+      "marca": "CeraVe",
+      "categoria": "Rostro",
+      "precio": 200,
+      "tamano": "89 ml",
+      "descripcionCorta": "Loción facial hidratante con protector solar FPS 30 de amplio espectro, libre de aceites.",
+      "beneficios": [
+        "Hidrata todo el día",
+        "FPS 30 de amplio espectro",
+        "Con ceramidas, niacinamida y ácido hialurónico",
+        "Libre de aceites"
+      ],
+      "modoDeUso": "Aplica cada mañana sobre el rostro limpio. Para piel normal a seca.",
+      "stock": 6,
+      "fotos": [
+        "/productos/cerave-am-spf30.jpg"
+      ],
+      "tiposDePiel": [
+        "normal",
+        "seca"
+      ],
+      "paraPreocupaciones": [
+        "resequedad",
+        "manchas"
+      ]
+    },
+    {
+      "nombre": "Protector Solar Mineral HydraTint Pro FPS 36",
+      "slug": "alastin-hydratint",
+      "marca": "Alastin",
+      "categoria": "Rostro",
+      "precio": 300,
+      "tamano": "91 g",
+      "descripcionCorta": "Protector solar mineral con color, FPS 36 de amplio espectro y resistente al agua (40 minutos).",
+      "beneficios": [
+        "FPS 36 de amplio espectro",
+        "Resistente al agua por 40 minutos",
+        "Fórmula mineral con tinte"
+      ],
+      "modoDeUso": "Aplica generosamente 15 minutos antes de la exposición al sol y reaplica cada 2 horas.",
+      "stock": 3,
+      "fotos": [
+        "/productos/alastin-hydratint.jpg"
+      ],
+      "tiposDePiel": [
+        "grasa",
+        "mixta",
+        "seca",
+        "normal"
+      ],
+      "paraPreocupaciones": [
+        "manchas",
+        "envejecimiento"
+      ]
+    },
+    {
+      "nombre": "Tónico Esencia Madagascar Centella Probio-Cica",
+      "slug": "skin1004-probio-cica",
+      "marca": "SKIN1004",
+      "categoria": "Rostro",
+      "precio": 199,
+      "tamano": "210 ml",
+      "descripcionCorta": "Tónico esencia con centella asiática pura de Madagascar para calmar y suavizar la piel.",
+      "beneficios": [
+        "Con centella pura de Madagascar",
+        "Calma la piel",
+        "Textura ligera tipo esencia"
+      ],
+      "modoDeUso": "Después de limpiar, aplica con las manos o con algodón sobre el rostro y cuello.",
+      "stock": 4,
+      "fotos": [
+        "/productos/skin1004-probio-cica-toner.jpg"
+      ],
+      "tiposDePiel": [
+        "grasa",
+        "mixta",
+        "seca",
+        "normal"
+      ],
+      "paraPreocupaciones": [
+        "irritacion",
+        "resequedad"
+      ],
+      "unoPorKit": true
+    },
+    {
+      "nombre": "Tónico Purificante Centella Tea-Trica",
+      "slug": "skin1004-tea-trica-toner",
+      "marca": "SKIN1004",
+      "categoria": "Rostro",
+      "precio": 199,
+      "tamano": "210 ml",
+      "descripcionCorta": "Tónico purificante con centella y árbol de té para piel con tendencia a imperfecciones.",
+      "beneficios": [
+        "Con centella y árbol de té",
+        "Ayuda a purificar la piel",
+        "Uso diario"
+      ],
+      "modoDeUso": "Después de limpiar, aplica sobre el rostro con las manos o con algodón, mañana y noche.",
+      "stock": 4,
+      "fotos": [
+        "/productos/skin1004-tea-trica-toner.jpg"
+      ],
+      "tiposDePiel": [
+        "grasa",
+        "mixta"
+      ],
+      "paraPreocupaciones": [
+        "granitos",
+        "comedones"
+      ],
+      "unoPorKit": true
+    },
+    {
+      "nombre": "Crema para Granitos Centella Tea-Trica",
+      "slug": "skin1004-spot-cream",
+      "marca": "SKIN1004",
+      "categoria": "Rostro",
+      "precio": 199,
+      "tamano": "20 ml",
+      "descripcionCorta": "Crema localizada con centella y árbol de té para aplicar sobre granitos.",
+      "beneficios": [
+        "Aplicación localizada",
+        "Con centella y árbol de té",
+        "Tamaño práctico"
+      ],
+      "modoDeUso": "Aplica una pequeña cantidad solo sobre el granito, sobre piel limpia y seca.",
+      "stock": 5,
+      "fotos": [
+        "/productos/skin1004-tea-trica-spot-cream.jpg"
+      ],
+      "tiposDePiel": [
+        "grasa",
+        "mixta",
+        "seca",
+        "normal"
+      ],
+      "paraPreocupaciones": [
+        "granitos"
+      ],
+      "unoPorKit": true
+    },
+    {
+      "nombre": "Daily Life Shiatsu Back & Neck Massager: Masajeador de Espalda y Cuello",
+      "slug": "masajeador-shiatsu-daily-life",
+      "marca": "Daily Life",
+      "categoria": "Bienestar",
+      "precio": 599,
+      "tamano": "1 pieza",
+      "descripcionCorta": "Masajeador estilo shiatsu que rodea el cuello y los hombros, con asa para transportarlo.",
+      "beneficios": [
+        "Masaje estilo shiatsu para cuello, hombros y espalda",
+        "Diseño que se acomoda alrededor del cuello",
+        "Controles para ajustar el masaje",
+        "Ideal para regalar o para relajarte en casa"
+      ],
+      "modoDeUso": "Colócalo sobre el cuello y los hombros, o recárgalo en la espalda, y selecciona el modo de masaje con sus botones.",
+      "stock": 2,
+      "unoPorKit": true,
+      "fotos": [
+        "/productos/masajeador-shiatsu-daily-life.jpg"
+      ],
+      "regalo": true,
+      "etiqueta": "Nuevo"
+    },
+    {
+      "nombre": "Daily Life Neck Back Massager: Masajeador Shiatsu de Cuello y Espalda con Calor",
+      "slug": "masajeador-neck-back",
+      "marca": "Daily Life",
+      "categoria": "Bienestar",
+      "precio": 599,
+      "tamano": "1 pieza",
+      "descripcionCorta": "Masajeador shiatsu de cuello y espalda para relajar y aflojar la tensión muscular, con función de calor.",
+      "beneficios": [
+        "Masaje shiatsu para cuello y espalda",
+        "Relaja y afloja la tensión muscular",
+        "Función de calor (heater)",
+        "Control de intensidad y cambio de dirección"
+      ],
+      "modoDeUso": "Colócalo sobre el cuello y los hombros o recárgalo en la espalda. Enciéndelo y ajusta la intensidad, la dirección y el calor con sus botones.",
+      "stock": 2,
+      "unoPorKit": true,
+      "fotos": [
+        "/productos/masajeador-neck-back-dailylife.jpg"
+      ],
+      "regalo": true,
+      "etiqueta": "Nuevo"
+    },
+    {
+      "nombre": "OWAYS Slimming Belt: Cinturón Reductor",
+      "slug": "cinturon-oways",
+      "marca": "OWAYS",
+      "categoria": "Bienestar",
+      "precio": 599,
+      "tamano": "1 pieza",
+      "descripcionCorta": "Cinturón reductor con panel de control de botones, para usar en abdomen, piernas y glúteos.",
+      "beneficios": [
+        "Panel de control con botones",
+        "Para abdomen, piernas y glúteos",
+        "Fácil de colocar y ajustar",
+        "Ideal para regalar"
+      ],
+      "modoDeUso": "Colócalo sobre la zona deseada, ajusta la banda y selecciona el modo con los botones. Sigue las instrucciones del fabricante.",
+      "stock": 2,
+      "unoPorKit": true,
+      "fotos": [
+        "/productos/cinturon-oways.jpg"
+      ],
+      "regalo": true,
+      "etiqueta": "Nuevo"
+    },
+    {
+      "nombre": "rilassa Wireless Slimming Belt: Cinturón Reductor Inalámbrico",
+      "slug": "cinturon-rilassa",
+      "marca": "rilassa",
+      "categoria": "Bienestar",
+      "precio": 599,
+      "tamano": "1 pieza",
+      "descripcionCorta": "Cinturón reductor inalámbrico con batería, calor y vibración para usar donde quieras.",
+      "beneficios": [
+        "Inalámbrico, con batería recargable",
+        "Función de calor",
+        "Función de vibración",
+        "Cómodo para usar en casa o donde quieras"
+      ],
+      "modoDeUso": "Colócalo alrededor de la cintura, enciéndelo y elige el modo con los botones. Sigue las instrucciones del fabricante.",
+      "stock": 2,
+      "unoPorKit": true,
+      "fotos": [
+        "/productos/cinturon-rilassa.jpg"
+      ],
+      "regalo": true,
+      "etiqueta": "Nuevo"
+    }
+  ]
+}
